@@ -3,8 +3,8 @@
 
 
 <div style="display: flex;">
-    <img src="https://github.com/linaMallek/Images_Galerry/assets/92185257/2b1326cf-4f30-4369-9584-a01d0d73ad13" width="300" height="auto padding-right: 5">
-    <img src="https://github.com/linaMallek/Images_Galerry/assets/92185257/6408304c-9671-42f7-9244-a9c6428b9ced" width="300" height="auto">
+  <img src="https://github.com/linaMallek/Images_Galerry/assets/92185257/2b1326cf-4f30-4369-9584-a01d0d73ad13" width="300" height="auto" style="padding-right: 5px;">
+  <img src="https://github.com/linaMallek/Images_Galerry/assets/92185257/6408304c-9671-42f7-9244-a9c6428b9ced" width="300" height="auto">
 </div>
 
 
