@@ -2,10 +2,16 @@
 - Flutter App to show images as a gallery and showing the full image when clicking on it 
 
 ## Results 
-<div style="display: flex;">
-<img src="https://github.com/linaMallek/Images_Galerry/assets/92185257/2b1326cf-4f30-4369-9584-a01d0d73ad13" width="300" height="auto" style="margin-right: 200px;">
-<img src="https://github.com/linaMallek/Images_Galerry/assets/92185257/6408304c-9671-42f7-9244-a9c6428b9ced" width="300" height="auto">
 
+<div style="display: flex; justify-content: space-between;">
+    <div style="margin-right: 20px;">
+        <img src="https://github.com/linaMallek/Images_Galerry/assets/92185257/2b1326cf-4f30-4369-9584-a01d0d73ad13" width="300" height="auto" style="border: 1px solid #ccc; border-radius: 5px;">
+        <p style="text-align: center;">Image 1</p>
+    </div>
+    <div>
+        <img src="https://github.com/linaMallek/Images_Galerry/assets/92185257/6408304c-9671-42f7-9244-a9c6428b9ced" width="300" height="auto" style="border: 1px solid #ccc; border-radius: 5px;">
+        <p style="text-align: center;">Image 2</p>
+    </div>
 </div>
 
 
