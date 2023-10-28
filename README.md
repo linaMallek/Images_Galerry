@@ -1,4 +1,15 @@
-# firstflutter
+# Image Gallery 
+- Flutter App to show images as a gallery 
+
+
+![image_G](https://github.com/linaMallek/Images_Galerry/assets/92185257/2b1326cf-4f30-4369-9584-a01d0d73ad13)  ![imgG](https://github.com/linaMallek/Images_Galerry/assets/92185257/6408304c-9671-42f7-9244-a9c6428b9ced)
+
+
+
+
+
+
+
 
 A new Flutter project.
 
